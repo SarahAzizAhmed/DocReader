@@ -7,7 +7,7 @@ Factors used to distinguish these extractions:
 - Font Size 
 - Font Name 
 
-PS: Some code is extra that was for further drilling down. Thus so far the output obtained is not from this file. It still have some buggs.
+#### PS: Some code is extra that was for further drilling down. Thus so far the output obtained is not from this file. It still have some buggs.
 
 
 ## Record.java 
